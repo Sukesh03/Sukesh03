@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Electric Vehicles<br>Python<br>Innovative projects, Hackathon and Internships<br>Chemical properties of the battery for Electronic Vehicles<br>Python, Autocad, Microcontrollers, C<br>sukesh.pamujula@gmail.com 
+Electric Vehicles<br>Python<br>Innovative projects, Hackathon and Internships<br>Chemical properties of the battery for Electronic Vehicles<br>Embedded Systems, Artificial Intelligence ad Machine Learning, Autocad, IoT, C<br>sukesh.pamujula@gmail.com 
 
 
 ## 🌐 Socials:
